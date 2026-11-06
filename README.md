@@ -162,6 +162,7 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 | OpenZeppelin Solidity Contracts | Software Development | `https://mcp.openzeppelin.com/contracts/solidity/mcp` | Open | [OpenZeppelin](https://openzeppelin.com) |
 | OpenZeppelin Stellar Contracts | Software Development | `https://mcp.openzeppelin.com/contracts/stellar/mcp` | Open | [OpenZeppelin](https://openzeppelin.com) |
 | OpenZeppelin Stylus Contracts | Software Development | `https://mcp.openzeppelin.com/contracts/stylus/mcp` | Open | [OpenZeppelin](https://openzeppelin.com) |
+| Chain.Love MCP | Software Development | `https://mcp.chain.love/mcp` | Open | [Chain.Love](https://www.chain.love/mcp-gateway) |
 | LLM Text | Data Analysis | `https://mcp.llmtxt.dev/sse` | Open | [LLM Text](https://llmtxt.dev) |
 | GitMCP | Software Development | `https://gitmcp.io/docs` | Open | [GitMCP](https://gitmcp.io) |
 | Google Big Query | Data Analysis | `https://bigquery.googleapis.com/mcp` | API Key | [Google](https://docs.cloud.google.com/bigquery/docs/reference/mcp) |
